@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../private/caolei/project/linux"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"netdevice.h": "c",
+			"nvmem-consumer.h": "c",
+			"if.h": "c"
+		}
+	}
+}
